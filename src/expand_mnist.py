@@ -9,6 +9,7 @@ right, by one pixel.  Save the resulting file to
 Note that this program is memory intensive, and may not run on small
 systems.
 
+Just a test
 """
 
 from __future__ import print_function
